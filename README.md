@@ -1,7 +1,8 @@
-### Hi there 👋
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{MeshackKipkorir}/count.svg)
 
+  ### Hi there 👋
  ✨ Welcome To My Profile ✨
 
 - 🔭 I’m currently a software developer at Bityarn Consult using LAMP stack
