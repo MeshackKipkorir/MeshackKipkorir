@@ -12,4 +12,4 @@
 
 - ⚡ Fun fact: I enjoy playing the saxophone🎷🎷
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeshackKipkorir)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeshackKipkorir&theme=dark)](https://git.io/streak-stats)
